@@ -1,6 +1,6 @@
  👋 Hi, I’m @Piyush0924
  👀 I’m excited to explore emerging technologies.
-- 🌱 I’m currently learning Fullstack Web Development 
+- 🌱 I’m  Fullstack Web Developer
 - 💞️ I’m looking to collaborate on Publicly accessible software and advanced web solutions
 - 📫 How to reach me pakmodepiyush@gmail.com or www.linkedin.com/in/contact-piyush-pakmode/
 - 😄 Pronouns: He/Him
